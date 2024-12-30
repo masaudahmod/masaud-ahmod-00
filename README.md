@@ -61,9 +61,9 @@ Feel free to fork this repository, make changes, and create a pull request if yo
 
 ## 📧 Contact Me
 
-- **Email:** [your-email@example.com](mailto:masaudahmod@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/)
-- **GitHub:** [Your GitHub Profile](https://github.com/masaudahmod)
+- **Email:** [masaudahmod@gmail.com](mailto:masaudahmod@gmail.com)
+- **LinkedIn:** [masaudahmod](https://www.linkedin.com/in/)
+- **GitHub:** [masaudahmod](https://github.com/masaudahmod)
 
 ---
 
